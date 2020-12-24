@@ -14,7 +14,7 @@
 
 - 在`yololayer.h`中设置类别CLASS_NUM，高INPUT_H和宽INPUT_W
 
-- ``中第272-274行设置类别，高和宽
+- `yololayer.cu`中第272-274行设置类别，高和宽
 
 ### 运行
 ```
